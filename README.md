@@ -59,4 +59,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![lalafell black mage](X_WV(5~08`GQSD3HT9_D55H.jpg)
+![lalafell black mage](./X_WV(5~08`GQSD3HT9_D55H.jpg)
