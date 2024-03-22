@@ -1,7 +1,7 @@
 ABOUT ME 👋
 ---
 
-👨‍💻Programmer, undergraduate third-year student
+👨‍💻Programmer, bachelor's degree
 
 🌱Majoring in Information Science
 
